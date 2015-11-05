@@ -1,0 +1,190 @@
+
+
+ 
+ 	.old .page-who.page-jobs .wrapper .steps-subtitle { font-size: 18px }
+ 
+	.old .page-who.page-press .wrapper.half {
+		width: 44%;
+		float: left;
+		margin: 0 0 0 30px }
+ 
+		.old .page-who.page-press .wrapper.half h4 { font-size:34px;text-align: left }
+ 
+		.old .page-who.page-press .wrapper.half .steps {
+			margin-left: 0;
+			width: 90%;
+			border-right: none }
+ 
+		.old .page-who.page-press .wrapper.half .steps-link {
+			float: right;
+			margin-top: 20px;
+			margin-right: 10px;
+			font-weight: 600;
+			margin-bottom: 30px;
+			text-transform: uppercase }
+ 
+		.old .page-who.page-press .wrapper.half hr { margin: 20px 35px }
+ 
+		.old .page-who.page-press .wrapper.half .steps-text {
+			color: #747474;
+			margin-right: 10px;
+			min-height: 150px }
+ 
+	.old .page-who.page-team .wrapper .steps .holder { min-height:550px;min-width: 230px }
+ 
+	.old .page-who.page-team .wrapper .steps .img-holder { height: 120px }
+ 
+	.old .page-who.page-team .wrapper .steps .steps-subtitle { font-size: 13px }
+ 
+	.old .page-who .wrapper.press-release { text-align: left }
+ 
+		.old .page-who .wrapper.press-release h5 { text-align: left }
+ 
+		.old .page-who .wrapper.press-release .release {
+			float: left;
+			width: 70%;
+			padding-left: 20px;
+			padding-right: 10px }
+ 
+			.old .page-who .wrapper.press-release .release h4 {
+				margin-left: -20px;
+				float: left;
+				font-size: 36px;
+				color: #333 }
+ 
+			.old .page-who .wrapper.press-release .release p a {
+				float: none;
+				text-decoration: underline;
+				font-style: normal }
+ 
+			.old .page-who .wrapper.press-release .release a {
+				float: right;
+				text-decoration: none;
+				font-style: italic }
+ 
+		.old .page-who .wrapper.press-release .sidebar {
+			float: left;
+			width: 24%;
+			padding-left: 20px }
+ 
+			.old .page-who .wrapper.press-release .sidebar p b { text-transform: uppercase }
+ 
+			.old .page-who .wrapper.press-release .sidebar .section p { text-transform:none;margin-top: 10px }
+ 
+			.old .page-who .wrapper.press-release .sidebar h6 { text-transform:uppercase;font-weight: 600 }
+ 
+			.old .page-who .wrapper.press-release .sidebar a { text-decoration: none }
+ 
+	.old .page-who .wrapper h4 { text-align:left;margin-bottom: 30px }
+ 
+	.old .page-who .wrapper .steps {
+		text-align: left;
+		border-left: 1px solid #d6d6d6;
+		padding: 0 24px;
+		margin: 0 23px }
+ 
+
+	.old .page-rates .item {
+		padding: 0 30px;
+		display: none;
+		position: relative }
+ 
+		.old .page-rates .item.active { display: block }
+ 
+	.old .single-state { display: none }
+ 
+
+/* afisare Harte CSS*/
+ 
+
+.old .map-wrapper {
+	width: 680px;
+	margin: 0 auto;
+	overflow: hidden }
+ 
+.old #map {
+	display: block;
+	width: 450px;
+	height: 325px;
+	float: left }
+
+.old #map-label {
+	height: 30px;
+	line-height: 30px;
+	font-size: 28px;
+	font-style: italic;
+	color: #486aa2;
+	text-align:center;
+	margin-top:15px;
+	padding-bottom:15px;
+	width:85%;
+
+
+
+}
+ 
+
+/* afisare Harte CSS END*/
+/*  SETARE CSS INFORMATIE STATE */ 
+ 
+.old .map-wrapper { width: 850px }
+ 
+.old #map { width:850px;height: 426px }
+
+.old h3 
+
+{
+text-indent:0px;
+padding-left:0px;
+margin-left:0px;
+padding-top:5px;
+float:left;
+font-size:21px;
+color:#ec6e11;
+
+
+
+
+
+}
+
+
+
+.old h1 
+ {
+ font-size:21px;
+ 
+ 
+ }
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+/*  SETARE CSS INFORMATIE STATE END*/ 
+
+/*  SETARE CSS DRopDown imvizibil*/ 
+ 
+.old #state-select { 
+display:block !important;
+width:28%;
+margin-top:20px;
+margin:0 auto 0; 
+}
+ 
+/*  SETARE CSS DRopDown imvizibil END*/  
+ 
+
+#state-tx,#state-nm,#state-sd,#state-sc,#state-or,#state-ca,#state-al,#state-de,#state-ut,#state-la,#state-nm,#state-ga,#state-mo,#state-wi,#state-il,#state-id
+{
+margin-left:-20px;
+}
+
+
+
+
+ 

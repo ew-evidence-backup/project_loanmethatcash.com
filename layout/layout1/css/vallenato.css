@@ -1,0 +1,57 @@
+#accordion-container {
+	font-size: 13px;
+	background: #ffffff;
+	padding: 5px 10px 10px 10px;
+	border: 1px solid #cccccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: 0 5px 15px #cccccc;
+	-webkit-box-shadow: 0 5px 15px #cccccc;
+	box-shadow: 0 5px 15px #cccccc;
+}
+
+.accordion-header {
+	font-size: 16px;
+	font-weight: bold;
+	background: #fff;
+	margin: 5px 0 0 0;
+	padding: 5px 20px;
+	border-bottom: 1px solid #cccccc;
+	cursor: pointer;
+	color: #486aa2;
+}
+
+.active-header {
+	background: url("../images/active-header.gif") #fff;
+	background-repeat: no-repeat;
+	background-position: right 50%;
+}
+
+.active-header:hover {
+	background: url("../images/active-header.gif") #f5f6fc;
+	background-repeat: no-repeat;
+	background-position: right 50%;
+}
+
+.inactive-header {
+	background: url("../images/inactive-header.gif") #fff;
+	background-repeat: no-repeat;
+	background-position: right 50%;
+}
+
+.inactive-header:hover {
+	background: url("../images/inactive-header.gif") #f5f6fc;
+	background-repeat: no-repeat;
+	background-position: right 50%;
+}
+
+.accordion-content {
+	display: none;
+	padding: 20px 20px 10px 20px;
+	font-weight: normal;
+}
+
+.accordion-content p {
+	font-weight: normal;
+}
